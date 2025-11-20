@@ -1,1 +1,2 @@
-coqui-tts python-telegram-bot
+coqui-tts
+python-telegram-bot
